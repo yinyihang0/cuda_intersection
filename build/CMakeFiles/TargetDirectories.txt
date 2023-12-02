@@ -1,0 +1,3 @@
+/mnt/h/coding/cuda_inter/build/CMakeFiles/rebuild_cache.dir
+/mnt/h/coding/cuda_inter/build/CMakeFiles/edit_cache.dir
+/mnt/h/coding/cuda_inter/build/CMakeFiles/RayMeshIntersection.dir
